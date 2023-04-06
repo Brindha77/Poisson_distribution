@@ -68,5 +68,9 @@ else:
      print(("The given data cannot be fitted in poisson distribution at 1% LOS "))
  
 ```
-# Results and Output : 
+#output :
+![195506884-60443103-3d9e-4631-b2e1-4a2fe10ac765](https://user-images.githubusercontent.com/118889143/230282408-92d29d53-18c3-4b52-aa86-f4bd511a833c.png)
+
+
+# Results : 
  Thus the poisson distribution for the arrival of objects per minute from the feeder is fitted.
